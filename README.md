@@ -1,7 +1,7 @@
 ### VayerMaking :computer:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VayerMaking&show_icons=true&theme=synthwave"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=VayerMaking&show_icons=true&theme=synthwave&include_all_commits=true"> 
 </p>
 
 <p align="center">
