@@ -7,8 +7,8 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VayerMaking&repo=vayers-atom-theme&theme=vision-friendly-dark)](https://github.com/VayerMaking/vayers-atom-theme)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VayerMaking&repo=elsys2020-2021&theme=vision-friendly-dark)](https://github.com/VayerMaking/elsys2020-2021)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VayerMaking&repo=elu4&theme=synthwave)](https://github.com/VayerMaking/elu4)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VayerMaking&repo=cloudsinmagenta&theme=synthwave)](https://github.com/VayerMaking/cloudsinmagenta)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VayerMaking&repo=elu4&theme=monokai)](https://github.com/VayerMaking/elu4)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VayerMaking&repo=cloudsinmagenta&theme=monokai)](https://github.com/VayerMaking/cloudsinmagenta)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VayerMaking&repo=vayermakingsbot&theme=maroongold)](https://github.com/VayerMaking/vayermakingsbot)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VayerMaking&repo=elixir_course&theme=maroongold)](https://github.com/VayerMaking/elixir_course)
 
