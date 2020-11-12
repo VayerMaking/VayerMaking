@@ -11,5 +11,5 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VayerMaking&repo=elu4)](https://github.com/VayerMaking/elu4)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VayerMaking&repo=cloudsinmagenta)](https://github.com/VayerMaking/cloudsinmagenta)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VayerMaking&repo=vayermakingsbot)](https://github.com/VayerMaking/vayermakingsbot)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VayerMaking&repo=elexir_course)](https://github.com/VayerMaking/elixir_course)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VayerMaking&repo=elixir_course)](https://github.com/VayerMaking/elixir_course)
 
