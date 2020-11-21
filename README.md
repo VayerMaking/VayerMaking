@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VayerMaking&layout=compact&theme=yeblu&exclude_repo=hacktuesthundersystem,HackTUES_8b_22_martin_vayer,hacktues_preparation,hello-world"> 
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VayerMaking&theme=yeblu"> 
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vayermaking&theme=yeblu"> 
 </p>
 
 <p align="center">
