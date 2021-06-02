@@ -18,4 +18,7 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api/pin/?username=VayerMaking&repo=cloudsinmagenta&theme=monokai"> 
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=VayerMaking&repo=vayermakingsbot&theme=maroongold"> 
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=VayerMaking&repo=elixir_course&theme=maroongold">  -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VayerMaking&repo=djitelloPi&theme=monokai">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VayerMaking&repo=mh18automation&theme=monokai">
+  
 </p>
