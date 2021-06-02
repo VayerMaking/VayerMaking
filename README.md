@@ -12,10 +12,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VayerMaking&repo=vayers-atom-theme&theme=vision-friendly-dark"> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VayerMaking&repo=elsys2020-2021&theme=vision-friendly-dark"> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VayerMaking&repo=elu4&theme=monokai"> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VayerMaking&repo=cloudsinmagenta&theme=monokai"> 
+  <img alt="my atom theme" src="https://github-readme-stats.vercel.app/api/pin/?username=VayerMaking&repo=vayers-atom-theme&theme=vision-friendly-dark"> 
+  <img alt="school stuff" src="https://github-readme-stats.vercel.app/api/pin/?username=VayerMaking&repo=elsys2020-2021&theme=vision-friendly-dark"> 
+<!--   <img src="https://github-readme-stats.vercel.app/api/pin/?username=VayerMaking&repo=elu4&theme=monokai">  -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/pin/?username=VayerMaking&repo=cloudsinmagenta&theme=monokai"> 
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=VayerMaking&repo=vayermakingsbot&theme=maroongold"> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VayerMaking&repo=elixir_course&theme=maroongold"> 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VayerMaking&repo=elixir_course&theme=maroongold">  -->
 </p>
