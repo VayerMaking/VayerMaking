@@ -1,5 +1,7 @@
 ### VayerMaking :computer:
 
+<a href="https://wakatime.com/@65f1bd92-64be-4878-b26a-8dbc49371590"><img src="https://wakatime.com/badge/user/65f1bd92-64be-4878-b26a-8dbc49371590.svg" alt="Total time coded since Nov 12 2020" /></a>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VayerMaking&show_icons=true&theme=synthwave&include_all_commits=true"> 
 </p>
