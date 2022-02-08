@@ -3,9 +3,12 @@
 
 
 <div>
-   <a align="center" href="https://wakatime.com/@65f1bd92-64be-4878-b26a-8dbc49371590">
-      <img src="https://wakatime.com/badge/user/65f1bd92-64be-4878-b26a-8dbc49371590.svg" alt="Total time coded since Nov 12 2020" />
-   </a>
+   <p align="center"> VayerMaking :computer: </p>
+   <p align="center">
+      <a href="https://wakatime.com/@65f1bd92-64be-4878-b26a-8dbc49371590">
+         <img src="https://wakatime.com/badge/user/65f1bd92-64be-4878-b26a-8dbc49371590.svg" alt="Total time coded since Nov 12 2020" />
+      </a>
+   </p>
 
    <div id="badges" align="center">
       <a href="https://www.linkedin.com/in/martin-vayer-942bb3213">
