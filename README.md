@@ -2,12 +2,21 @@
 
 <br><a href="https://wakatime.com/@65f1bd92-64be-4878-b26a-8dbc49371590"><img src="https://wakatime.com/badge/user/65f1bd92-64be-4878-b26a-8dbc49371590.svg" alt="Total time coded since Nov 12 2020" /></a></br>
 
+<div class="container">
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VayerMaking&show_icons=true&theme=synthwave&include_all_commits=true"> 
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VayerMaking&" alt="VayerMaking" /></p>
-
+<div>
+  
+  <style>
+    .container{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+  </style>
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VayerMaking&layout=compact&theme=yeblu&exclude_repo=hacktuesthundersystem,HackTUES_8b_22_martin_vayer,hacktues_preparation,hello-world"> 
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VayerMaking&theme=yeblu"> 
