@@ -3,13 +3,13 @@
    <br><a href="https://wakatime.com/@65f1bd92-64be-4878-b26a-8dbc49371590"><img src="https://wakatime.com/badge/user/65f1bd92-64be-4878-b26a-8dbc49371590.svg"     alt="Total time coded since Nov 12 2020" /></a></br>
 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/martin-vayer-942bb3213">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.instagram.com/shaggy.beard.photography/">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/vayermaking">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
