@@ -1,7 +1,3 @@
-### VayerMaking :computer:
-
-
-
 <div>
    <p align="center"> VayerMaking :computer: </p>
    <p align="center">
@@ -33,4 +29,3 @@
   <div>
     
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
-  
