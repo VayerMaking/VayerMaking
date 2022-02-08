@@ -13,6 +13,18 @@
 <body>
    <br><a href="https://wakatime.com/@65f1bd92-64be-4878-b26a-8dbc49371590"><img src="https://wakatime.com/badge/user/65f1bd92-64be-4878-b26a-8dbc49371590.svg"     alt="Total time coded since Nov 12 2020" /></a></br>
 
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
   <div class="container">
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=VayerMaking&show_icons=true&theme=synthwave&include_all_commits=true"> 
@@ -21,6 +33,7 @@
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VayerMaking&" alt="VayerMaking" /></p>
     
   <div>
+    <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 </body>
   
 <!-- <p align="center">
